@@ -1,0 +1,66 @@
+body {
+    background-color: #f8f9fa;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-weight: 600;
+    color: #212529;
+}
+
+.card {
+    border-radius: 10px;
+    border: none;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    color: white;
+}
+
+.summary-card {
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.summary-card .card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.summary-card .card-body {
+    overflow-y: auto;
+    max-height: 360px;
+}
+
+#summary-content h1 {
+    font-size: 1.5rem;
+}
+
+#summary-content h2 {
+    font-size: 1.3rem;
+    margin-top: 1rem;
+}
+
+#summary-content h3 {
+    font-size: 1.1rem;
+}
+
+#summary-content ul, #summary-content ol {
+    padding-left: 20px;
+}
+
+.input-group .form-control {
+    border-right: none;
+}
+
+.input-group .btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+@media (max-width: 768px) {
+    .summary-card {
+        margin-top: 1rem;
+    }
+}
