@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', function() {
             spinner.classList.remove('d-none');
             summarizeBtn.disabled = true;
         } else {
-            buttonText.textContent = 'Summarize';
+            buttonText.textContent = '✨ Summarize';
             spinner.classList.add('d-none');
             summarizeBtn.disabled = false;
         }

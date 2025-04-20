@@ -14,7 +14,7 @@ h1 {
 }
 
 .btn-secondary {
-    background-color: #6c757d;
+    background-color: #16a34a;;
     color: white;
 }
 
@@ -63,4 +63,7 @@ h1 {
     .summary-card {
         margin-top: 1rem;
     }
+}
+#youtube-url{
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }

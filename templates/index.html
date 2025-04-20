@@ -16,9 +16,9 @@
             <div class="card-body">
                 <form id="youtube-form">
                     <div class="input-group mb-3">
-                        <input type="text" id="youtube-url" name="youtube_url" class="form-control" placeholder="Paste YouTube URL here (e.g., https://www.youtube.com/watch?v=dQw4w9WgXcQ)">
+                        <input type="text" id="youtube-url" name="youtube_url" class="form-control" placeholder="Paste YouTube URL link here">
                         <button class="btn btn-secondary" type="submit" id="summarize-btn">
-                            <span class="button-text">Summarize</span>
+                            <span class="button-text">✨ Summarize</span>
                             <span class="spinner-border spinner-border-sm d-none" role="status" aria-hidden="true"></span>
                         </button>
                     </div>
@@ -30,11 +30,6 @@
         
         <div id="results" class="mt-4" style="display: none;">
             <div class="row">
-                <div class="col-md-6 mb-4">
-                    <div class="ratio ratio-16x9">
-                        <iframe id="video-iframe" src="" allowfullscreen></iframe>
-                    </div>
-                </div>
                 <div class="col-md-6">
                     <div class="card summary-card h-100">
                         <div class="card-header">
@@ -45,6 +40,12 @@
                         </div>
                     </div>
                 </div>
+                <div id= "thumbnail-div" class="col-md-6 mb-4">
+                    <div class="ratio ratio-16x9">
+                        <iframe id="video-iframe" src="" allowfullscreen></iframe>
+                    </div>
+                </div>
+                
             </div>
         </div>
     </div>
