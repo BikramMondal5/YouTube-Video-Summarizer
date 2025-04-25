@@ -59,7 +59,7 @@ A streamlined, lightweight, web application that summarizes YouTube videos using
 
 ## 📸 Screenshots
 
-![YouTube Video Summarizer Screenshot](screenshot.jpg)
+![YouTube Video Summarizer Screenshot](screenshot.jpeg)
 
 ## 🚀 How to Use
 
