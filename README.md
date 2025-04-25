@@ -69,6 +69,12 @@ A streamlined, lightweight, web application that summarizes YouTube videos using
 4.  Wait for the application to process the video.
 5.  View the summary alongside the embedded video (if applicable).
 
+## 🙏 Acknowledgements
+
+1. **YouTube Transcript API**
+2. **GitHub PAT**
+3. **Flask**
+
 ## 🤝 Contribution
 
 Feel free to fork this repository, raise issues, or submit pull requests to add features or improve the design.
