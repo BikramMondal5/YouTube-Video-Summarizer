@@ -1,6 +1,6 @@
 # 🎬 YouTube-Video-Summarizer
 
-A streamlined, lightweight, web application that summarizes YouTube videos using OpenAI gpt-4o API. User can get concise, well-structured summaries by entering a YouTube URL.
+A streamlined, lightweight, web application that summarizes YouTube videos using OpenAI gpt-4o respone. User can get concise, well-structured summaries by entering a YouTube URL.
 
 ## 🌟 Features
 
