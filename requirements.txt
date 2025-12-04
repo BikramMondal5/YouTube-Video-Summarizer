@@ -1,0 +1,6 @@
+flask
+markdown
+youtube-transcript-api>=0.6.0
+azure-ai-inference
+azure-core
+python-dotenv
